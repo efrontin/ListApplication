@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Recycler View App</string>
+    <string-array name="nameArray">
+        <item>Pierre</item>
+        <item>Paul</item>
+        <item>Jacques</item>
+        <item>Ga y tant</item>
+        <item>Jay Rhum</item>
+        <item>Max la Menace</item>
+        <item>Aude à city</item>
+        <item>Jay Rhum</item>
+        <item>Max la Menace</item>
+        <item>Aude à city</item>
+        <item>Jay Rhum</item>
+        <item>Max la Menace</item>
+        <item>Aude à city</item>
+        <item>Jay Rhum</item>
+        <item>Max la Menace</item>
+        <item>Aude à city</item>
+    </string-array>
+    <string-array name="mdNameArray">
+        <item>Cloud</item>
+        <item>Favorite</item>
+        <item>Bubble</item>
+        <item>Home</item>
+        <item>Star</item>
+        <item>Rowing</item>
+        <item>Chart</item>
+        <item>Flower</item>
+        <item>Warning</item>
+        <item>Sun</item>
+        <item>Flash</item>
+    </string-array>
+</resources>
